@@ -1,0 +1,10 @@
+streamlit>=1.22
+pandas
+numpy
+langchain>=0.0.300
+openai
+chromadb
+tqdm
+scikit-learn
+python-dotenv
+faiss-cpu  # optional - chroma will use it if available
